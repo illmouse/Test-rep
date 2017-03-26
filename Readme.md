@@ -1,1 +1,1 @@
-This is not a test repository.
+This is a test repository.
